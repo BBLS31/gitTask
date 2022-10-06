@@ -1,1 +1,2 @@
-console.log("Git is Awesome!");
+var name = window.prompt("Enter your name: "); 
+alert("Your name is " + name);
